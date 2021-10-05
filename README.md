@@ -11,7 +11,7 @@ Monday -- August 02 2021 @ 11:53 PM
 
 1. Install the **Python Script** plugin in Notepad++
 > Ribbon Menu -> Plugins Admin... -> Available
-2. Move **time.py** to: **C:\Program Files (x86)\Notepad++\plugins\PythonScript\scripts**
+2. Move **time.py** to: **C:\Program Files\Notepad++\plugins\PythonScript\scripts**
 3. Create the **Menu Item** in Notepad++.
 > Ribbon Menu -> Python Script -> Configuration... -> Machine Scripts -> *Select* time.py -> Add
 4. Restart Notepad++
