@@ -13,7 +13,7 @@ Monday -- August 02 2021 @ 11:53 PM
 > Ribbon Menu -> Plugins Admin... -> Available
 2. Move **time.py** to: **C:\Program Files\Notepad++\plugins\PythonScript\scripts**
 3. Create the **Menu Item** in Notepad++.
-> Ribbon Menu -> Python Script -> Configuration... -> Machine Scripts -> *Select* time.py -> Add
+> Ribbon Menu | Plugin -> Python Script -> Configuration... -> Machine Scripts -> *Select* time.py -> Add
 4. Restart Notepad++
 5. Assign a shorcut key to execute time.py
-> Ribbon Menu -> Settings -> ShortcutMapper -> Plugin Commands -> time.py
+> Ribbon Menu | Plugin -> Settings -> ShortcutMapper -> Plugin Commands -> time.py
