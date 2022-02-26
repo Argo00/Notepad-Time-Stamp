@@ -16,4 +16,4 @@ Monday -- August 02 2021 @ 11:53 PM
 > Ribbon Menu | Plugin -> Python Script -> Configuration... -> Machine Scripts -> *Select* time.py -> Add
 4. Restart Notepad++
 5. Assign a shorcut key to execute time.py
-> Ribbon Menu | Plugin -> Settings -> ShortcutMapper -> Plugin Commands -> time.py
+> Ribbon Menu | Settings -> ShortcutMapper -> Plugin Commands -> time.py
